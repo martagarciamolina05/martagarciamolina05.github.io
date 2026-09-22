@@ -1,6 +1,6 @@
 # Mi Porfolio Profesional
 
-¡Hola!Bienvenido al repositorio de mi porfolio web personal. Aquí muestro los proyectos que he ido realizando en mi trayectoria informática como estudiante.
+¡Hola! Bienvenido o bienvenida al repositorio de mi porfolio web personal. Aquí muestro los proyectos que he ido realizando en mi trayectoria informática como estudiante.
 
 🌐 **Ver porfolio en vivo:** [https://martagarciamolina05.github.io](https://martagarciamolina05.github.io)
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Marta Garccía Molina**, estudiante de Ingenriería Multimedia en la Universidad de Alicante. Lo que más me gusta dle mundo de la informática es poder crear una infinita variedad de proyectos, y poder desplegar mi creatividad. Me gusta poner especial atención en la estética y el diseño de los proyectos que realizo. 
+Soy **Marta García Molina**, estudiante de Ingenriería Multimedia en la Universidad de Alicante. Lo que más me gusta dle mundo de la informática es poder crear una infinita variedad de proyectos, y poder desplegar mi creatividad. Me gusta poner especial atención en la estética y el diseño de los proyectos que realizo. 
 
 - 📍 **Ubicación:** Elche, Alicante
 - 🎓 **Formación:** Ingeniería Multimedia 
@@ -32,6 +32,7 @@ Soy **Marta Garccía Molina**, estudiante de Ingenriería Multimedia en la Unive
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
